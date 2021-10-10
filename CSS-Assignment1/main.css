@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+}
+h1{
+    color: #1C0C5B;
+   
+}
+h2{
+    color: #3D2C8D;
+    
+}
+h3{
+    color: #916BBF;
+    
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+a{
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+    list-style-type: none;
+}
+#header-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.header{
+    font-size: 55px;
+}
+
+#menu-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    
+padding: 1rem;
+    
+    
+}
+#item-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    font-size: larger;
+}
